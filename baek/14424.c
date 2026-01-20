@@ -21,7 +21,9 @@ int cmp(const void *a, const void *b)
     return ft_strcmp(*(char **)a, *(char **)b);
 }
 
-// 문자열의 이분 탐색임
+// 문자열의 이분 탐색을 짜야함
+// 바이너리 서치
+
 int main()
 {
     int n, m;
